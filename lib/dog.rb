@@ -11,4 +11,5 @@ lassie - Dog.new
 lassie.name= "Lassie"
 Lassie.name  
   
+  end
 end
